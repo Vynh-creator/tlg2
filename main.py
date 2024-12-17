@@ -7,7 +7,7 @@ from app.handlers import router
 
 from app.database.models import async_main,create_table_days,create_time_table,create_user_table,create_childs_table,create_time_ch_tables,create_lesson_day_table,insert_into_days_table,insert_into_lesson_day
 
-time[]
+
 
 async def main():
     await async_main()
